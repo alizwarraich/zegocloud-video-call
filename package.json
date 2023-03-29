@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@zegocloud/zego-uikit-prebuilt": "^1.7.4",
+    "dotenv": "^16.0.3",
     "react": "^18.2.0",
+    "env-cmd": "^10.1.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0"
   },
